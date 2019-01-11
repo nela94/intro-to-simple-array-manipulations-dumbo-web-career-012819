@@ -20,3 +20,6 @@ end
 def shift_with_args(brands_removed)
   brands_removed.shift(2)
 end
+def using_concat(my_favorite_things,more_favs)
+  my_favorite_things.concat(more_favs)
+end
